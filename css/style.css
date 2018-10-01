@@ -292,6 +292,14 @@ RESPONSIVE
      -webkit-transition: 0.2s width;
      transition: 0.2s width;
 }
+ .nav-menu li.main-1 a {
+     background-color: #EAE6DA;
+     color: #006E51;
+}
+ .nav-menu li.main-2 a {
+     background-color:#C0AB8E;
+     color: #00FFFF; 
+}
  .nav-menu li.cat-1 a:after {
      background-color: #228b22;
 }
@@ -306,6 +314,9 @@ RESPONSIVE
 }
  .nav-menu li.cat-5 a:after {
      background-color: #FFB6C1;
+}
+ .nav-menu li.cat-6 a:after {
+     background-color: #DC143C;
 }
  .nav-menu li a:hover, .nav-menu li a:focus {
      background-color: transparent;
@@ -325,6 +336,9 @@ RESPONSIVE
 }
  .nav-menu li.cat-5 a:hover, .nav-menu li.cat-5 a:focus {
      color: #FFB6C1;
+}
+ .nav-menu li.cat-6 a:hover, .nav-menu li.cat-6 a:focus {
+     color: #DC143C;
 }
 /*----------------------------*\
 	search
