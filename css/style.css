@@ -293,6 +293,8 @@ RESPONSIVE
      transition: 0.2s width;
 }
  .nav-menu li.main-1 a {
+     font-weight: bolder;
+     letter-spacing: 2px;
      background-color: #EAE6DA;
      color: #006E51;
 }
@@ -301,44 +303,44 @@ RESPONSIVE
      color: #00FFFF; 
 }
  .nav-menu li.cat-1 a:after {
-     background-color: #228b22;
+     background-color: #dc143c;
 }
  .nav-menu li.cat-2 a:after {
-     background-color: #ff8700;
+     background-color: #228b22;
 }
  .nav-menu li.cat-3 a:after {
-     background-color: #0078ff;
+     background-color: #ffb6c1;
 }
  .nav-menu li.cat-4 a:after {
-     background-color: #8d00ff;
+     background-color: #ff8700;
 }
  .nav-menu li.cat-5 a:after {
-     background-color: #FFB6C1;
+     background-color: #0078ff;
 }
  .nav-menu li.cat-6 a:after {
-     background-color: #DC143C;
+     background-color: #8d00ff;
 }
  .nav-menu li a:hover, .nav-menu li a:focus {
      background-color: transparent;
      text-decoration: none;
 }
  .nav-menu li.cat-1 a:hover, .nav-menu li.cat-1 a:focus {
-     color: #228b22;
+     color: #dc143c;
 }
  .nav-menu li.cat-2 a:hover, .nav-menu li.cat-2 a:focus {
-     color: #ff8700;
+     color: #228b22;
 }
  .nav-menu li.cat-3 a:hover, .nav-menu li.cat-3 a:focus {
-     color: #0078ff;
+     color: #ffb6c1;
 }
  .nav-menu li.cat-4 a:hover, .nav-menu li.cat-4 a:focus {
-     color: #8d00ff;
+     color: #ff8700;
 }
  .nav-menu li.cat-5 a:hover, .nav-menu li.cat-5 a:focus {
-     color: #FFB6C1;
+     color: #0078ff;
 }
  .nav-menu li.cat-6 a:hover, .nav-menu li.cat-6 a:focus {
-     color: #DC143C;
+     color: #8d00ff;
 }
 /*----------------------------*\
 	search
