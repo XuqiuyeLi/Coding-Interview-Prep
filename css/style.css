@@ -1010,5 +1010,87 @@ RESPONSIVE
 
 .hahah {
      margin-bottom: 150px;
-     margin-right: 60px;
+
 }
+
+.text-center-big {
+     color: #FFFFFF;
+     font-family: 'Nunito Sans', sans-serif;
+     font-weight:900;
+     padding-top: 20%;
+     font-size: 300%;
+     letter-spacing: 4px;
+     display: flex;
+     justify-content: center;
+}
+
+.text-center-top {
+     padding-top: 40%;
+     font-size: 170%;
+     letter-spacing: 2px;
+     display: flex;
+     justify-content: center;
+}
+
+.text-center-bottom {
+     font-size: 120%;
+     letter-spacing: 2px;
+     display: flex;
+     justify-content: center;
+}
+
+.big-box {
+     height:300px;
+     width:50%;
+}
+
+.box {
+     height:300px;
+     width:25%;
+}
+
+.box:hover, .big-box:hover {
+     opacity: 0.8;
+}
+
+.pale {
+     background-color:#fafbff;
+}
+
+.grey {
+     background-color:#d9d9d9;
+}
+
+.this-week .purple {
+     background-color:#8d00ff;
+}
+
+.this-week .aqua {
+     background-color:#aaddd8;
+}
+
+.this-week .aqua :hover {
+     color: #FF1493;
+}
+.this-week .pale-purple {
+     background-color:#f0ebff;
+}
+
+.this-month .orange {
+     background-color:#ff8700;
+}
+
+.this-month .pale-pink {
+     background-color:#fee7e3;
+}
+
+.this-month .light-aqua {
+     background-color:#cefdce;
+}
+
+.this-month .light-aqua :hover {
+     color:#8d00ff;
+}
+
+
+
