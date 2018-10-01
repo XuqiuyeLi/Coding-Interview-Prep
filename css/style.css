@@ -417,10 +417,14 @@ RESPONSIVE
      -ms-transform: translateX(0%);
      transform: translateX(0%);
 }
+
  .nav-aside-menu li a {
      font-family: 'Nunito Sans', sans-serif;
      font-weight:700;
      font-size:23px;
+}
+ .nav-aside-menu li a:hover, .nav-aside-menu  li a:focus {
+     color: #BCBCBE;
 }
  .nav-aside-social li {
      display: inline-block;
